@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danyboytheone
-- 👀 I’m interested in ... Coding, Cooking, repairing cars
 - 🌱 I’m currently learning ... Web development, C++, java, SQL, Node
 - 💞️ I’m looking to collaborate on ... Any cool projects
 - 📫 How to reach me ... Discord:danyboytheone#6654 
